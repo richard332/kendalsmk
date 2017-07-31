@@ -8,5 +8,6 @@
     </head>
     <body>
     <h1>Ini adalah halaman dari LINTANG</h1>
+    <h1>dari lintang lagi fitur2 </h1>
     </body>
 </html>
